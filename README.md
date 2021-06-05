@@ -1,0 +1,2 @@
+# Calci
+A simple calculator
